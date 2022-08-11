@@ -1,0 +1,9 @@
+
+Lógica de programação - parte II: pratique com desenhos, animações e um jogo;
+PHP: conceitos - parte, lidando com dados, loops e mais;
+Avançando com PHP - parte: Arrays, Strings, Função e Web;
+PHP Composer - parte: Dependências, Autoload e Publicação;
+PHP e MySQL: Criando uma webapp;
+Orientação a Objetos com PHP: Classes, métodos e atributos;
+Avançando com Orientação a Objetos com PHP: Herança, Polimorfismo e Interfaces;
+Metaprogramação com PHP: API de Reflection
